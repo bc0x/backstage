@@ -7,12 +7,3 @@ spec:
   type: website
   lifecycle: production
   owner: tracking-team
-
-apiVersion: backstage.io/v1alpha1
-kind: Component
-metadata:
-  name: terroir-website
-spec:
-  type: website
-  lifecycle: production
-  owner: tracking-team
